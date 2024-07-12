@@ -8,7 +8,7 @@ Modifier les arrays `persons` et `locations` pour les adapter à votre équipe.
 
 ```bash
 node index.js
-open matches.html
+open index.html
 ```
 
 Et voilà !
