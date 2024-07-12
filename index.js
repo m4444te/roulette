@@ -10,6 +10,7 @@ const persons = [
     "Marilyne",
     "Marjorie",
     "Mathieu",
+    "Nathalie",
     "Rima",
     "Sophie"
 
